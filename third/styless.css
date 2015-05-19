@@ -1,0 +1,60 @@
+body {
+	width:100%;
+	height:100%;
+	background-color:white;
+	margin: 0;
+
+}
+
+#nav{
+	width:100%;
+	height:142px;
+	background-color: #D8D8D8;
+	box-sizing: border-box;
+	padding:10px;
+}
+
+#logo{
+	width:120px;
+	height:120px;
+	float:left;
+	background-color: #4A90E2;
+	margin-left:10px;
+
+}
+
+.q {
+	width:100%;
+	height:284px;
+	color:black;
+	box-sizing: border-box;
+	padding:40px;
+	font-size:28px;
+	
+
+}
+
+
+.w {
+	background-color:#4A90E2;
+	width:100%;
+	height:142px;
+}
+
+.e {
+	width:100%;
+	height:142px;
+	background-color:#50E3C2; 
+}
+.r {
+	width:100%;
+	height:142px;
+	background-color:#B8E986;
+}
+.t {
+	width:100%;
+	height:142px;
+	background-color:#F8E71C; 
+}
+
+

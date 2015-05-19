@@ -1,0 +1,42 @@
+body {
+	height: 100%;
+	width: 100%;
+	background-color: #D8D8D8;
+	margin:0;
+
+	
+}
+
+.top { 
+	height: 160px;
+	width: 100%;
+	background-color:#444444;
+	margin:0;
+	
+	
+
+}
+
+.middle {
+	height: 1000px;
+	width: 60%;
+	background-color:#EFEFEF;
+	margin-right: 20%; /*auto;*/
+	margin-left: 20%;  /*auto;*/
+	/*border-bottom: 80px solid #222222;*/
+	/*border-bottom-style: solid;*/
+
+	
+}
+
+.middle-top {
+	height: 90%;
+	width: 100%;
+}
+
+.bottom {
+	height: 10%;
+	width: 100%;
+	background-color: black;
+}
+
